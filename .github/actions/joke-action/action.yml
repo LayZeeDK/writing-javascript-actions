@@ -8,4 +8,4 @@ outputs:
 
 runs:
   using: "node16"
-  main: "main.js"
+  main: "main.mjs"
