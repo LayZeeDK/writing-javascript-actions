@@ -1,4 +1,4 @@
-const core = require("@actions/core");
+import core from '@actions/core';
 
 const firstGreeting = core.getInput("first-greeting");
 const secondGreeting = core.getInput("second-greeting");
